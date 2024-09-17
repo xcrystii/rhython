@@ -4,7 +4,7 @@
 Rhython คือ Rhythm Game สั่น (หรือ Beatmap) ที่มีเป้าหมายเพียงหนึ่งเดียว: เพื่อทดสอบความทนทานของคุณ
 ในเกมนี้มีแค่เพลงเดียว แมพเดียว และโน้ตที่ซ่ำซ้อน เหมาะสมกับคำว่า ***"Endless"***
 
-
+https://github.com/user-attachments/assets/feefd64a-ba55-4ab0-86eb-b5dadaf2386b
 
 ## Controls
 Rhython มีแค่ 4 ปุ่ม (ไม่สามารถเปลี่ยนได้)
