@@ -12,3 +12,5 @@ Rhython มีแค่ 4 ปุ่ม (ไม่สามารถเปลี�
   <img src="https://xyz.crd.co/assets/images/gallery25/88dbcddd.gif?v=de6feabd" />
 </p>
 
+## วิธีการ Download
+download Rhython.zip > extract > คลิก Rhython.exe 
